@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    background-color: black;
+}
+#app{
+	width: 100vw;
+	height: 100vh;
+	position: relative;
+	background-color: #000;
+	display: flex;
+}
+video{
+	width: 50%;
+	height: 100%;
+}
+
+#playButton{
+	position: absolute;
+	left: 50%; 
+	top: 50%; 
+	transform: translate(-50%, -50%);
+    cursor: pointer;
+	display: flex;
+    justify-content: center;
+}
+
+#playButton img{
+	width: 50%;
+}

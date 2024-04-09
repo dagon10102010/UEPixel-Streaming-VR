@@ -1,0 +1,12 @@
+{
+	"UseFrontend": false,
+	"UseMatchmaker": false,
+	"UseHTTPS": false,
+	"UseAuthentication": false,
+	"LogToFile": true,
+	"HomepageFile": "player.htm",
+	"AdditionalRoutes": {},
+	"EnableWebserver": false,
+	"streamerPort": 9983,
+	"httpPort": 9998
+}
